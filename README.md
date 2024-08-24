@@ -1,5 +1,7 @@
 Data Mining Project: Adult Mortality Rate Analysis (2019-2021)
+
 Overview
+
 This project explores the application of data mining techniques to analyze global Adult Mortality Rates from 2019 to 2021. The primary objective is to enhance market segmentation and risk assessment strategies for a global health insurance provider by identifying patterns in health outcomes, economic status, and demographic factors across different countries.
 
 Table of Contents
@@ -13,6 +15,7 @@ Usage
 Contributors
 License
 Data
+
 The dataset used for this project includes the Adult Mortality Rate for various countries from 2019 to 2021. Key attributes include:
 
 Countries
