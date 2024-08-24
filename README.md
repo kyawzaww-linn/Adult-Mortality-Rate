@@ -58,33 +58,6 @@ The project involves several data mining techniques:
 
 The project successfully demonstrates the use of data mining techniques to derive actionable insights for market segmentation and risk assessment in the health insurance sector. The findings can guide the development of tailored insurance products and strategic marketing efforts based on regional health profiles and economic conditions.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kyawzaww-linn/Python-Project.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Python-Project
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-- **Clustering Analysis:**
-  - Run the `clustering_analysis.py` script to perform k-means clustering on the dataset.
-
-- **Classification Models:**
-  - Use the `classification_models.py` script to train and evaluate the classification algorithms on the dataset.
-
-- **Visualization:**
-  - The `visualization.py` script provides visual representations of the clustering and classification results.
 
 ## Contributors
 
@@ -93,7 +66,3 @@ To run this project locally, follow these steps:
   - Nang Kaung Shan Kham  
   - Hpu Hpu Thant Sin  
   - Nyan Lin Htut  
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
